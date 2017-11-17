@@ -1,0 +1,26 @@
+sudo ntfsfix /dev/sda1
+
+
+
+$ sudo apt-add-repository ppa:rodsmith/refind
+$ sudo apt-get update
+$ sudo apt-get install refind
+
+
+ npm install --save hexo-generator-feed
+ npm install hexo-wordcount --save
+ npm install hexo-wordcount --save
+ npm install hexo-generator-search --save
+ npm install hexo-deployer-git –save
+
+
+aptitude
+
+ sslocal -c ss-conf.json
+
+sudo apt-get install vim-gtk
+
+vimtutor
+
+sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
+sudo calibre-uninstall
